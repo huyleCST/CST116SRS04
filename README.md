@@ -2,13 +2,13 @@
 Triangle
 
 
-Class ID: 
+Class ID: Escavalier
 
 SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
-Notes:  
+Notes:  The program runs without any syntax and runtime errors, but it could have some logical errors.
 
 
 ---
